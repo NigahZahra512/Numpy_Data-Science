@@ -1,0 +1,6 @@
+"""NumPy is a Python library that is used instead of normal Python lists when we need faster and more efficient numerical operations.
+In Python lists, performing mathematical operations like addition or multiplication requires loops, which makes the code longer and slower, especially for large datasets. 
+NumPy provides a powerful data structure called an array, which allows element-wise operations directly without using loops.
+For example, when two NumPy arrays are added, their corresponding elements are added automatically, making the code simple and fast. NumPy is widely used in scientific computing, data analysis, and machine learning
+because it consumes less memory, runs faster, and offers many built-in functions such as sum, mean, and range creation. 
+Therefore, NumPy is preferred over Python lists whenever mathematical calculations and performance are important."""
